@@ -10,5 +10,5 @@ variable "postgres_port" {
 
 variable "students" {
   type = list(string)
-  default = ["aramis", "athos", "porthos"]
+  default = ["aramis", "athos", "porthos", "dartagnan"]
 }

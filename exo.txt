@@ -1,0 +1,17 @@
+*** EXO ***
+
+Créer le projet Terraform suivant, chez le fournisseur AWS.
+
+Dans la région Virginie du nord, et pour deux développeurs suivants:
+Laurel et Hardy.
+
+- produire une "key_pair"
+- produire une instance ec2 de type t2.micro, configurée avec la clé 
+produite
+
+- "output-er" l'id des vms
+
+Une fois l'infra déployée vérifier la connexion ssh.
+
+Détruire l'infra.
+

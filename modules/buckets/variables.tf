@@ -1,0 +1,3 @@
+variable "student" {
+    type = string
+}
