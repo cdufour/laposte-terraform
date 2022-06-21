@@ -6,13 +6,11 @@ provider "aws" {
 
 module "buckets_oliv" {
     source = "./buckets"
-    
     student = "olivier-clavel"
 }
 
 module "buckets_claudio" {
     source = "./buckets"
-    
     student = "claude-debussy"
 }
 
